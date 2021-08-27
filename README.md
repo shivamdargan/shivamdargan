@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Dargan</h1>
 <h3 align="center">A Full-Stack Web Developer (MERN Stack), Competitive Programmer From India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin:5px;" src="https://github-profile-trophy.vercel.app/?username=shivamdargan" alt="shivamdargan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin:105px;" src="https://github-profile-trophy.vercel.app/?username=shivamdargan" alt="shivamdargan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivamdargan" target="blank"><img src="https://img.shields.io/twitter/follow/shivamdargan?logo=twitter&style=for-the-badge" alt="shivamdargan" /></a> </p>
 
